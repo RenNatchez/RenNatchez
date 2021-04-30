@@ -1,6 +1,5 @@
 ### Yo la team 👋👋👋
-&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Ayhan)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **RenNatchez/RenNatchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
